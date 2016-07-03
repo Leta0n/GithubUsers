@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - BNRCoreDataStack (1.2.5)
+  - EasyMapping (0.18.0):
+    - EasyMapping/Core (= 0.18.0)
+  - EasyMapping/Core (0.18.0)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 2.0)
+  - BNRCoreDataStack
+  - EasyMapping
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  BNRCoreDataStack: 968926d1cef9d6eee5e7c18b57762aa270f9b96c
+  EasyMapping: 67eb5a11e20a345a2a32d610a02f08dd2bc7b982
+
+COCOAPODS: 0.39.0
